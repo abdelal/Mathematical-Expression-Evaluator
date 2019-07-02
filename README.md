@@ -38,10 +38,10 @@ the given expression is tokenized, and then evaluated directly(as an infix) usin
  ``` 
  > 5*2+(((5+7)*2)-5+6)-(((4+5-10+20)-10)*3)*2 
   -19 
-  >   \_
+ > _
   -19 
- >  x= _
+ > x=_
  -19 
-  >  x 
+ > x 
  -19 
 ```
